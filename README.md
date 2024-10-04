@@ -9,10 +9,6 @@
 
 ---
 # Hello, World! I'm Nilesh Kumar Shukla 👋
-
-Here's the updated code with your requested changes:
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" alt="Software Developer"/>
   <img src="https://img.shields.io/badge/Ex--Blockchain%20Research%20Intern-orange?style=for-the-badge" alt="Ex-Blockchain Research Intern"/>
