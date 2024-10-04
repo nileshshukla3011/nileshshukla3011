@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" alt="Software Developer"/>
   <img src="https://img.shields.io/badge/Ex--Blockchain%20Research%20Intern-orange?style=for-the-badge" alt="Ex-Blockchain Research Intern"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge" alt="Full Stack Developer"/>
+  
 </div>
 
 
@@ -89,6 +90,9 @@ B.Tech in Information Technology | CGPA: 8.34
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nileshshukla30)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nileshshukla30)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilesh.shukla47@gmail.com)
+<a href="https://drive.google.com/file/d/11iHQctg_9htl8DEvvmpJsVLaVOEcDNfT/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge" alt="Resume"/>
+  </a>
 
 </div>
 
