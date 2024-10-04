@@ -22,6 +22,10 @@ B.Tech in Information Technology | CGPA: 8.34
 
 ### Blockchain Research Intern @ DRDO, Ministry of Defence
 *June 2023 – August 2023 | New Delhi*
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DRDO_Logo.svg/1200px-DRDO_Logo.svg.png" width="100" alt="DRDO Logo"/>
+</div>
+
 - ⛓️ Worked on Hyperledger Fabric Based Blockchain Network
 - 👨‍💻 Developed chaincode using Golang
 - 🌐 Contributed to web3 applications development
@@ -30,7 +34,7 @@ B.Tech in Information Technology | CGPA: 8.34
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -88,3 +92,8 @@ B.Tech in Information Technology | CGPA: 8.34
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshshukla30&theme=dark" alt="Nilesh's GitHub streak"/>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nileshshukla30&color=blueviolet" alt="Profile Views"/>
+</div>
+
