@@ -1,10 +1,24 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nileshshukla3011&color=green" alt="Profile Views" style="background-color: green; color: white; width: 200px; height: 30px; font-size: 12px; "/>
+</div>
+
+<div align="center" style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nileshshukla3011&show_icons=true&theme=radical" alt="Nilesh's GitHub stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshshukla3011&theme=dark" alt="Nilesh's GitHub streak"/>
+</div>
+
+---
 # Hello, World! I'm Nilesh Kumar Shukla 👋
 
+Here's the updated code with your requested changes:
+
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-Intern-blue?style=for-the-badge" alt="Software Developer Intern"/>
-  <img src="https://img.shields.io/badge/Blockchain-Enthusiast-orange?style=for-the-badge" alt="Blockchain Enthusiast"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" alt="Software Developer"/>
+  <img src="https://img.shields.io/badge/Ex--Blockchain%20Research%20Intern-orange?style=for-the-badge" alt="Ex-Blockchain Research Intern"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-green?style=for-the-badge" alt="Full Stack Developer"/>
 </div>
+
 
 ## 🎓 Education
 
@@ -20,15 +34,14 @@ B.Tech in Information Technology | CGPA: 8.34
 - 🎨 Implemented responsive UI components with Tailwind CSS
 - 📈 Improved app performance by 25% through optimizations
 
-### Blockchain Research Intern @ DRDO, Ministry of Defence
+
+#### Blockchain Research Intern @ DRDO, Ministry of Defence
 *June 2023 – August 2023 | New Delhi*
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DRDO_Logo.svg/1200px-DRDO_Logo.svg.png" width="100" alt="DRDO Logo"/>
-</div>
 
 - ⛓️ Worked on Hyperledger Fabric Based Blockchain Network
 - 👨‍💻 Developed chaincode using Golang
 - 🌐 Contributed to web3 applications development
+
 
 ## 🛠️ Tech Stack
 
@@ -47,7 +60,7 @@ B.Tech in Information Technology | CGPA: 8.34
 
 ## 🚀 Projects
 
-1. **Stumart** - Marketplace for used items
+1. **Stumart** - Marketplace for used items 
    - CRUD APIs, OpenAI integration, AI-powered filters
    - Tech: Next.js, Node.js, MongoDB, Redux Toolkit
 
@@ -83,17 +96,5 @@ B.Tech in Information Technology | CGPA: 8.34
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshshukla30&show_icons=true&theme=radical" alt="Nilesh's GitHub stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshshukla30&theme=dark" alt="Nilesh's GitHub streak"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nileshshukla30&color=blueviolet" alt="Profile Views"/>
-</div>
 
